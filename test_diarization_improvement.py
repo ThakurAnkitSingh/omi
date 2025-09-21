@@ -5,7 +5,7 @@ Enhanced Diarization Test - Show 66.7% Improvement
 This test demonstrates that our Pyannote.audio enhancement layer
 reduces speaker mis-assignments and improves accuracy by 66.7%.
 
-Run: python test_diarization_improvement.py
+Run: python test_diarization_improvement.py 
 """
 
 import os
